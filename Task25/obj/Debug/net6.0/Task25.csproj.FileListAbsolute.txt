@@ -1,0 +1,16 @@
+E:\GB\Homework 11.10.2022\Task\Task25\bin\Debug\net6.0\Task25.exe
+E:\GB\Homework 11.10.2022\Task\Task25\bin\Debug\net6.0\Task25.deps.json
+E:\GB\Homework 11.10.2022\Task\Task25\bin\Debug\net6.0\Task25.runtimeconfig.json
+E:\GB\Homework 11.10.2022\Task\Task25\bin\Debug\net6.0\Task25.dll
+E:\GB\Homework 11.10.2022\Task\Task25\bin\Debug\net6.0\ref\Task25.dll
+E:\GB\Homework 11.10.2022\Task\Task25\bin\Debug\net6.0\Task25.pdb
+E:\GB\Homework 11.10.2022\Task\Task25\obj\Debug\net6.0\Task25.GlobalUsings.g.cs
+E:\GB\Homework 11.10.2022\Task\Task25\obj\Debug\net6.0\Task25.csproj.AssemblyReference.cache
+E:\GB\Homework 11.10.2022\Task\Task25\obj\Debug\net6.0\Task25.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB\Homework 11.10.2022\Task\Task25\obj\Debug\net6.0\Task25.AssemblyInfoInputs.cache
+E:\GB\Homework 11.10.2022\Task\Task25\obj\Debug\net6.0\Task25.AssemblyInfo.cs
+E:\GB\Homework 11.10.2022\Task\Task25\obj\Debug\net6.0\Task25.csproj.CoreCompileInputs.cache
+E:\GB\Homework 11.10.2022\Task\Task25\obj\Debug\net6.0\Task25.dll
+E:\GB\Homework 11.10.2022\Task\Task25\obj\Debug\net6.0\ref\Task25.dll
+E:\GB\Homework 11.10.2022\Task\Task25\obj\Debug\net6.0\Task25.pdb
+E:\GB\Homework 11.10.2022\Task\Task25\obj\Debug\net6.0\Task25.genruntimeconfig.cache
